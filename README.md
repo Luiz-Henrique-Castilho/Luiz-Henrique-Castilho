@@ -1,6 +1,4 @@
-## Olá 👋
-
-- Me chamo Luiz Henrique
+## Olá, Me chamo Luiz Henrique 👋
 
 - 🎓 Estagiario em Analise de Dados
 - 📧 Contate-me no email: castilholuiz96@gmail.com
